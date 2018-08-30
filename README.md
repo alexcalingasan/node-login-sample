@@ -11,6 +11,6 @@ Write and configure this code inside your **development.js**.
 export const devConfig = {
   port: 3000,
   database: 'YOUR_MONGO_DATABASE_CONNECTION_STRING',
-  secret: 'QWERTYUDFGHJBN12345',
+  secret: 'PUTRANDOMCHARACTERSFORSECRET',
 };
 ```
